@@ -11,7 +11,7 @@ Please see our paper for implementation details. You would require the "ImageJ" 
 ## Results
 
 The code can be run as a standalone to observe the migration of the cell centroids. A time-series plot of a single cell movement will look something like this:
-<img src="/Cell_Migration.png" style="margin: 10px;">
+<img src="/imgs/Cell_Migration.png" style="margin: 10px;">
 
 
 ## Citation
