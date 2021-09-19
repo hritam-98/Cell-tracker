@@ -6,7 +6,12 @@ Abstract: Comparative analysis of neural composition in interconnected species m
 
 ## Implementation
 
-Please see our paper for implementation details. You would require the "Fiji" application after which you can use the MATLAB codes provided (Run `Tracker.m`) in this repository for the final cell segmentation and tracking workflow. ImageJ or Fiji is required for frame separation of the video sequence data.
+Please see our paper for implementation details. You would require the "ImageJ" application after which you can use the MATLAB codes provided (Run `Tracker.m`) in this repository for the final cell segmentation and tracking workflow. ImageJ or Fiji is required for frame separation of the video sequence data.
+
+## Results
+
+The code can be run as a standalone to observe the migration of the cell centroids. A time-series plot of a single cell movement will look something like this:
+
 
 ## Citation
 If this repository helps you in any way, consider citing our paper as follows:
